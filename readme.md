@@ -26,11 +26,11 @@
 [<img alt="PL/SQL" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/oracle/oracle-original.svg" />][plsql]
 [<img alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
 
-
-<br/>
-<br/>
-
 ---
+
+<br/>
+<br/>
+
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
