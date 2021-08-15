@@ -7,6 +7,8 @@
 - 🥅 2021 Goals: Contribute more to my personal projects
 - ⚡ Fun fact: I love to play games and watch series
 
+---
+
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -28,7 +30,10 @@
 <br/>
 <br/>
 
+---
+
 <!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=filipeoliveira-oss&hide=contribs&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
