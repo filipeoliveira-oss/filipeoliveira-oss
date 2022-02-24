@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning React and mastering PL/SQl
 - 💻 I'm looking to become a junior developer soon
-- 🥅 2021 Goals: Contribute more to my personal projects
+- 🥅 2022 Goals: Improve my knowledge in JS, React and Python
 - ⚡ Fun fact: I love to play games and watch series
 
 ---
