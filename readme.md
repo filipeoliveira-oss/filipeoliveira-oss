@@ -2,8 +2,8 @@
 
 ## I'm a Student, Technical Support Specialist, Developer!!
 
-- 🌱 I’m currently learning React and mastering PL/SQl
-- 💻 I'm looking to become a junior developer soon
+- 🌱 I’m currently learning React and mastering SQl
+- 💻 I'm currently working with JavaScript, Python e Java as a internship at MaximoCon ( IBM Maximo consultant)
 - 🥅 2022 Goals: Improve my knowledge in JS, React and Python
 - ⚡ Fun fact: I love to play games and watch series
 
