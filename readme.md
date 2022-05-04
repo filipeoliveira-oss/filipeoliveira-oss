@@ -46,6 +46,6 @@
 [react]: https://devdocs.io/react/
 [nodejs]: https://devdocs.io/node/
 [plsql]: https://docs.oracle.com/database/121/LNPLS/toc.htm
-[python]: https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png
-[java]: https://cdn-icons-png.flaticon.com/512/226/226777.png
+[python]: https://devdocs.io/python/
+[java]: https://devdocs.io/java/
 [github]: https://docs.github.com/pt
