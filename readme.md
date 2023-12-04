@@ -35,7 +35,7 @@
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=filipeoliveira-oss&hide=contribs&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=filipeoliveira-oss&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 [linkedin]: https://www.linkedin.com/in/filipe-oliveira-178994172/
 [instagram]: https://www.instagram.com/filipe.oliveira17/
