@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning mastering React
 - 💻 I'm currently working with JavaScript, Python, Java and SQL at Bentley Systems ( IBM Maximo consultant )
-- 🥅 2023 Goals: Improve my knowledge in JS, React and Python
+- 🥅 2024 Goals: Improve my knowledge in JS, React and Python
 - ⚡ Fun fact: I love to play games and watch series
 
 ---
