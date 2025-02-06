@@ -1,10 +1,9 @@
 ### Hi there, I'm Filipe  👋
 
-## I'm a Student, Technical Support Specialist, Developer!!
+## I'm a Developer, Maximo Consultant and Entrepreneur!!
 
-- 🌱 I’m currently mastering React
-- 💻 I'm currently working with JavaScript, Python, Java and SQL at Bentley Systems ( IBM Maximo consultant )
-- 🥅 2024 Goals: Improve my knowledge in JS, React and Python
+- 💻 I'm currently working with JavaScript, Python, Java and SQL at Bentley Systems ( IBM Maximo consultant ) and own L&F Web Solutions which is a company focused on web development
+- 🥅 2025 Goals: Focus on my carrer and develop more programming skills
 - ⚡ Fun fact: I love to play games and watch series
 
 ---
